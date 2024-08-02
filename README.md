@@ -1,11 +1,12 @@
-# React-3D-React-Slider
+# React 3D Slider with Mouse Pointer Interaction
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React application featuring a 3D slider with mouse pointer interaction. The slider displays a series of slides with titles, subtitles, descriptions, and background images. The slides can be navigated using previous and next buttons, and the active slide has a 3D tilt effect based on the mouse pointer position.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **3D Tilt Effect**: The active slide tilts based on the mouse pointer position, providing a dynamic and interactive visual experience.
+- **Slide Navigation**: Users can navigate through the slides using the previous and next buttons.
+- **Responsive Design**: The slider is designed to be responsive and works well on various screen sizes.
 
 ## To start the project:
 
@@ -17,4 +18,4 @@ Currently, two official plugins are available:
     ```sh
    npm run dev
 
-![Description](./src/assets/Projects.png)
+![My Animation](./public/slider_demo.gif)
