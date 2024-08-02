@@ -1,4 +1,4 @@
-# React 3D Slider with Mouse Pointer Interaction
+# React-Slider-3d-Cover-Pointer
 
 This project is a React application featuring a 3D slider with mouse pointer interaction. The slider displays a series of slides with titles, subtitles, descriptions, and background images. The slides can be navigated using previous and next buttons, and the active slide has a 3D tilt effect based on the mouse pointer position.
 
