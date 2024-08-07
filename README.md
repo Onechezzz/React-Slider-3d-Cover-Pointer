@@ -18,4 +18,4 @@ This project is a React application featuring a 3D slider with mouse pointer int
     ```sh
    npm run dev
 
-![My Animation](./public/slider_demo.gif)
+![My Animation](./public/demo.gif)
